@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manahilsiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="manahilsiddiqui" /> </p>
 
-- 🔭 I’m currently working on **projects to add to my portfolio**
-
-- 🌱 I’m currently learning **web development**
-
-- 👯 I’m looking to collaborate on **with everyone at my same coding level**
-
-- 💬 Ask me about **react**
-
 - ⚡ Fun fact **I am a hardcore Apex Legends player**
 
 <h3 align="left">Connect with me:</h3>
